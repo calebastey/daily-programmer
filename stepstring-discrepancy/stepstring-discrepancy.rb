@@ -1,5 +1,5 @@
 ##
-# usage: ruby stepstring-discrepancy.rb input_string
+# usage: ruby stepstring-discrepancy.rb input_file
 #
 # Status:  Working
 #
